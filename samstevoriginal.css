@@ -685,7 +685,7 @@ textarea{
     border-radius: 20px;
 }
 
-@media (width: 768px) {
+@media (max-width: 768px) {
     body{
         margin: auto;
     }
